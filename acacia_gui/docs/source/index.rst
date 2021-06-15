@@ -6,7 +6,7 @@
 Welcome to acacia's documentation!
 =================================
 
-.. figure:: images/alos_examples.png
+.. figure:: images/clusters.png
    :scale: 50 %
    :align: center
 
